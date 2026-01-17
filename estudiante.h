@@ -19,3 +19,5 @@ public:
         cout << nombre << " su nota es: " << notafinal << endl;
     }
 };
+
+#endif
