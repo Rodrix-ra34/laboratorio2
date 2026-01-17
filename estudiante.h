@@ -1,3 +1,6 @@
+#ifndef ESTUDIANTES_H
+#define ESTUDIANTES_H
+
 #include <iostream>
 #include <string>
 using namespace std;
